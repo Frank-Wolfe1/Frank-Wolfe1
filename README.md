@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frank-Wolfe1
 - 👀 I’m interested in ... Economics, public policy, data science
-- 🌱 I’m currently learning ... Python! In particular webscraping and some basic geospatial stuff. Also Stata and ArcGIS.
+- 🌱 I’m currently learning ... Python! In particular webscraping and some basic geospatial stuff. Also Stata and ArcGIS/QGIS.
 - 📫 How to reach me ... Email me at frank.wolfe74@gmail.com
 - 😄 Pronouns: ... He/him
